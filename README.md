@@ -1,16 +1,16 @@
-# DelegateIQ-OS — AI Operating System for Claude Code
+# AIOS Starter Kit — AI Operating System for Claude Code
 
 A free, MIT-licensed kit that turns Claude Code into your personal **AI Operating System (AIOS)**. Audience: anyone building automations — solopreneurs, small business operators, managers, creators, AI consultants.
 
 The kit personalizes itself to you via an `/onboard` interview, then gives you two recurring thinking skills (`/audit`, `/level-up`) to keep building leverage week over week.
 
-> **DelegateIQ-OS** is the way DelegateIQ sets up an AIOS for operators and their teams. The kit is universal (it works for anyone), but the structure mirrors how teams run their own businesses on top of it.
+> The **AIOS Starter Kit** is a lean, opinionated way to stand up an AIOS for operators and their teams. It works for anyone, and the structure mirrors how real operators run their businesses on top of it.
 
 ---
 
 ## The litmus test
 
-> **"While you're not at your desk, your DelegateIQ-OS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
+> **"While you're not at your desk, your AIOS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
 
 Every design decision in this kit rolls up to that test. If a layer, skill, or template doesn't contribute to it, it doesn't ship.
 
@@ -99,7 +99,7 @@ The kit is intentionally lean. Skills here are ideation prompts and thinking too
 ## Repo layout
 
 ```
-DelegateIQ-OS/
+aios-starter/
 ├── README.md
 ├── CLAUDE.md                        ← Your operating manual (filled by /onboard)
 ├── EXPANSIONS.md                    ← What to add as you grow
